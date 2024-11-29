@@ -1,0 +1,420 @@
+animation.png
+	size: 512, 128
+	filter: Linear, Linear
+animation
+	index: 0
+	bounds: 1, 1, 100, 100
+animation
+	index: 12
+	bounds: 1, 1, 100, 100
+animation
+	index: 13
+	bounds: 1, 1, 100, 100
+animation
+	index: 125
+	bounds: 1, 1, 100, 100
+animation
+	index: 137
+	bounds: 1, 1, 100, 100
+animation
+	index: 138
+	bounds: 1, 1, 100, 100
+animation
+	index: 10
+	bounds: 1, 1, 100, 100
+animation
+	index: 124
+	bounds: 1, 1, 100, 100
+animation
+	index: 3
+	bounds: 1, 1, 100, 100
+animation
+	index: 121
+	bounds: 1, 1, 100, 100
+animation
+	index: 11
+	bounds: 1, 1, 100, 100
+animation
+	index: 7
+	bounds: 1, 1, 100, 100
+animation
+	index: 15
+	bounds: 1, 1, 100, 100
+animation
+	index: 21
+	bounds: 1, 1, 100, 100
+animation
+	index: 18
+	bounds: 1, 1, 100, 100
+animation
+	index: 14
+	bounds: 1, 1, 100, 100
+animation
+	index: 19
+	bounds: 1, 1, 100, 100
+animation
+	index: 117
+	bounds: 1, 1, 100, 100
+animation
+	index: 134
+	bounds: 1, 1, 100, 100
+animation
+	index: 20
+	bounds: 1, 1, 100, 100
+animation
+	index: 16
+	bounds: 1, 1, 100, 100
+animation
+	index: 118
+	bounds: 1, 1, 100, 100
+animation
+	index: 6
+	bounds: 1, 1, 100, 100
+animation
+	index: 1
+	bounds: 1, 1, 100, 100
+animation
+	index: 2
+	bounds: 1, 1, 100, 100
+animation
+	index: 119
+	bounds: 1, 1, 100, 100
+animation
+	index: 126
+	bounds: 1, 1, 100, 100
+animation
+	index: 9
+	bounds: 1, 1, 100, 100
+animation
+	index: 116
+	bounds: 1, 1, 100, 100
+animation
+	index: 129
+	bounds: 1, 1, 100, 100
+animation
+	index: 4
+	bounds: 1, 1, 100, 100
+animation
+	index: 135
+	bounds: 1, 1, 100, 100
+animation
+	index: 123
+	bounds: 1, 1, 100, 100
+animation
+	index: 128
+	bounds: 1, 1, 100, 100
+animation
+	index: 115
+	bounds: 1, 1, 100, 100
+animation
+	index: 133
+	bounds: 1, 1, 100, 100
+animation
+	index: 136
+	bounds: 1, 1, 100, 100
+animation
+	index: 131
+	bounds: 1, 1, 100, 100
+animation
+	index: 5
+	bounds: 1, 1, 100, 100
+animation
+	index: 122
+	bounds: 1, 1, 100, 100
+animation
+	index: 17
+	bounds: 1, 1, 100, 100
+animation
+	index: 127
+	bounds: 1, 1, 100, 100
+animation
+	index: 130
+	bounds: 1, 1, 100, 100
+animation
+	index: 8
+	bounds: 1, 1, 100, 100
+animation
+	index: 22
+	bounds: 1, 1, 100, 100
+animation
+	index: 132
+	bounds: 1, 1, 100, 100
+animation
+	index: 120
+	bounds: 1, 1, 100, 100
+animation
+	index: 23
+	bounds: 103, 1, 100, 100
+animation
+	index: 24
+	bounds: 103, 1, 100, 100
+animation
+	index: 30
+	bounds: 103, 1, 100, 100
+animation
+	index: 40
+	bounds: 103, 1, 100, 100
+animation
+	index: 27
+	bounds: 103, 1, 100, 100
+animation
+	index: 29
+	bounds: 103, 1, 100, 100
+animation
+	index: 25
+	bounds: 103, 1, 100, 100
+animation
+	index: 38
+	bounds: 103, 1, 100, 100
+animation
+	index: 41
+	bounds: 103, 1, 100, 100
+animation
+	index: 32
+	bounds: 103, 1, 100, 100
+animation
+	index: 28
+	bounds: 103, 1, 100, 100
+animation
+	index: 34
+	bounds: 103, 1, 100, 100
+animation
+	index: 39
+	bounds: 103, 1, 100, 100
+animation
+	index: 31
+	bounds: 103, 1, 100, 100
+animation
+	index: 35
+	bounds: 103, 1, 100, 100
+animation
+	index: 44
+	bounds: 103, 1, 100, 100
+animation
+	index: 33
+	bounds: 103, 1, 100, 100
+animation
+	index: 42
+	bounds: 103, 1, 100, 100
+animation
+	index: 26
+	bounds: 103, 1, 100, 100
+animation
+	index: 36
+	bounds: 103, 1, 100, 100
+animation
+	index: 37
+	bounds: 103, 1, 100, 100
+animation
+	index: 43
+	bounds: 103, 1, 100, 100
+animation
+	index: 45
+	bounds: 205, 1, 100, 100
+animation
+	index: 53
+	bounds: 205, 1, 100, 100
+animation
+	index: 67
+	bounds: 205, 1, 100, 100
+animation
+	index: 60
+	bounds: 205, 1, 100, 100
+animation
+	index: 50
+	bounds: 205, 1, 100, 100
+animation
+	index: 100
+	bounds: 205, 1, 100, 100
+animation
+	index: 58
+	bounds: 205, 1, 100, 100
+animation
+	index: 65
+	bounds: 205, 1, 100, 100
+animation
+	index: 55
+	bounds: 205, 1, 100, 100
+animation
+	index: 57
+	bounds: 205, 1, 100, 100
+animation
+	index: 109
+	bounds: 205, 1, 100, 100
+animation
+	index: 48
+	bounds: 205, 1, 100, 100
+animation
+	index: 98
+	bounds: 205, 1, 100, 100
+animation
+	index: 66
+	bounds: 205, 1, 100, 100
+animation
+	index: 92
+	bounds: 205, 1, 100, 100
+animation
+	index: 110
+	bounds: 205, 1, 100, 100
+animation
+	index: 46
+	bounds: 205, 1, 100, 100
+animation
+	index: 47
+	bounds: 205, 1, 100, 100
+animation
+	index: 99
+	bounds: 205, 1, 100, 100
+animation
+	index: 114
+	bounds: 205, 1, 100, 100
+animation
+	index: 104
+	bounds: 205, 1, 100, 100
+animation
+	index: 56
+	bounds: 205, 1, 100, 100
+animation
+	index: 105
+	bounds: 205, 1, 100, 100
+animation
+	index: 93
+	bounds: 205, 1, 100, 100
+animation
+	index: 111
+	bounds: 205, 1, 100, 100
+animation
+	index: 52
+	bounds: 205, 1, 100, 100
+animation
+	index: 54
+	bounds: 205, 1, 100, 100
+animation
+	index: 107
+	bounds: 205, 1, 100, 100
+animation
+	index: 59
+	bounds: 205, 1, 100, 100
+animation
+	index: 63
+	bounds: 205, 1, 100, 100
+animation
+	index: 94
+	bounds: 205, 1, 100, 100
+animation
+	index: 97
+	bounds: 205, 1, 100, 100
+animation
+	index: 96
+	bounds: 205, 1, 100, 100
+animation
+	index: 61
+	bounds: 205, 1, 100, 100
+animation
+	index: 51
+	bounds: 205, 1, 100, 100
+animation
+	index: 95
+	bounds: 205, 1, 100, 100
+animation
+	index: 101
+	bounds: 205, 1, 100, 100
+animation
+	index: 62
+	bounds: 205, 1, 100, 100
+animation
+	index: 106
+	bounds: 205, 1, 100, 100
+animation
+	index: 112
+	bounds: 205, 1, 100, 100
+animation
+	index: 113
+	bounds: 205, 1, 100, 100
+animation
+	index: 49
+	bounds: 205, 1, 100, 100
+animation
+	index: 102
+	bounds: 205, 1, 100, 100
+animation
+	index: 103
+	bounds: 205, 1, 100, 100
+animation
+	index: 108
+	bounds: 205, 1, 100, 100
+animation
+	index: 64
+	bounds: 205, 1, 100, 100
+animation
+	index: 68
+	bounds: 307, 1, 100, 100
+animation
+	index: 75
+	bounds: 307, 1, 100, 100
+animation
+	index: 80
+	bounds: 307, 1, 100, 100
+animation
+	index: 73
+	bounds: 307, 1, 100, 100
+animation
+	index: 70
+	bounds: 307, 1, 100, 100
+animation
+	index: 89
+	bounds: 307, 1, 100, 100
+animation
+	index: 78
+	bounds: 307, 1, 100, 100
+animation
+	index: 88
+	bounds: 307, 1, 100, 100
+animation
+	index: 84
+	bounds: 307, 1, 100, 100
+animation
+	index: 90
+	bounds: 307, 1, 100, 100
+animation
+	index: 77
+	bounds: 307, 1, 100, 100
+animation
+	index: 82
+	bounds: 307, 1, 100, 100
+animation
+	index: 83
+	bounds: 307, 1, 100, 100
+animation
+	index: 74
+	bounds: 307, 1, 100, 100
+animation
+	index: 69
+	bounds: 307, 1, 100, 100
+animation
+	index: 86
+	bounds: 307, 1, 100, 100
+animation
+	index: 87
+	bounds: 307, 1, 100, 100
+animation
+	index: 71
+	bounds: 307, 1, 100, 100
+animation
+	index: 79
+	bounds: 307, 1, 100, 100
+animation
+	index: 85
+	bounds: 307, 1, 100, 100
+animation
+	index: 76
+	bounds: 307, 1, 100, 100
+animation
+	index: 72
+	bounds: 307, 1, 100, 100
+animation
+	index: 81
+	bounds: 307, 1, 100, 100
+animation
+	index: 91
+	bounds: 409, 1, 100, 100

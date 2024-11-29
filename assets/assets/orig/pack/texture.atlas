@@ -1,0 +1,27 @@
+texture.png
+	size: 2048, 128
+	filter: Linear, Linear
+Normal$sprite (1).png
+	bounds: 102, 4, 99, 97
+Normal$sprite (10).png
+	bounds: 203, 4, 99, 97
+Normal$sprite (2).png
+	bounds: 304, 4, 99, 97
+Normal$sprite (3).png
+	bounds: 405, 4, 99, 97
+Normal$sprite (4).png
+	bounds: 506, 4, 99, 97
+sprite (4).png
+	bounds: 506, 4, 99, 97
+Normal$sprite (5).png
+	bounds: 607, 4, 99, 97
+Normal$sprite (6).png
+	bounds: 1, 1, 99, 100
+Normal$sprite (7).png
+	bounds: 708, 4, 99, 97
+Normal$sprite (8).png
+	bounds: 809, 4, 99, 97
+Normal$sprite (9).png
+	bounds: 910, 4, 99, 97
+Normal$sprite.png
+	bounds: 1011, 4, 99, 97

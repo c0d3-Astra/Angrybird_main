@@ -1,0 +1,381 @@
+red Animation.png
+	size: 256, 64
+	filter: Linear, Linear
+red Animation
+	index: 0
+	bounds: 1, 1, 45, 41
+red Animation
+	index: 1
+	bounds: 1, 1, 45, 41
+red Animation
+	index: 2
+	bounds: 1, 1, 45, 41
+red Animation
+	index: 14
+	bounds: 1, 1, 45, 41
+red Animation
+	index: 6
+	bounds: 1, 1, 45, 41
+red Animation
+	index: 21
+	bounds: 1, 1, 45, 41
+red Animation
+	index: 11
+	bounds: 1, 1, 45, 41
+red Animation
+	index: 16
+	bounds: 1, 1, 45, 41
+red Animation
+	index: 5
+	bounds: 1, 1, 45, 41
+red Animation
+	index: 13
+	bounds: 1, 1, 45, 41
+red Animation
+	index: 23
+	bounds: 1, 1, 45, 41
+red Animation
+	index: 15
+	bounds: 1, 1, 45, 41
+red Animation
+	index: 9
+	bounds: 1, 1, 45, 41
+red Animation
+	index: 8
+	bounds: 1, 1, 45, 41
+red Animation
+	index: 22
+	bounds: 1, 1, 45, 41
+red Animation
+	index: 7
+	bounds: 1, 1, 45, 41
+red Animation
+	index: 19
+	bounds: 1, 1, 45, 41
+red Animation
+	index: 20
+	bounds: 1, 1, 45, 41
+red Animation
+	index: 10
+	bounds: 1, 1, 45, 41
+red Animation
+	index: 3
+	bounds: 1, 1, 45, 41
+red Animation
+	index: 18
+	bounds: 1, 1, 45, 41
+red Animation
+	index: 17
+	bounds: 1, 1, 45, 41
+red Animation
+	index: 4
+	bounds: 1, 1, 45, 41
+red Animation
+	index: 12
+	bounds: 1, 1, 45, 41
+red Animation
+	index: 24
+	bounds: 48, 1, 45, 41
+red Animation
+	index: 35
+	bounds: 48, 1, 45, 41
+red Animation
+	index: 26
+	bounds: 48, 1, 45, 41
+red Animation
+	index: 25
+	bounds: 48, 1, 45, 41
+red Animation
+	index: 37
+	bounds: 48, 1, 45, 41
+red Animation
+	index: 32
+	bounds: 48, 1, 45, 41
+red Animation
+	index: 38
+	bounds: 48, 1, 45, 41
+red Animation
+	index: 40
+	bounds: 48, 1, 45, 41
+red Animation
+	index: 46
+	bounds: 48, 1, 45, 41
+red Animation
+	index: 28
+	bounds: 48, 1, 45, 41
+red Animation
+	index: 42
+	bounds: 48, 1, 45, 41
+red Animation
+	index: 44
+	bounds: 48, 1, 45, 41
+red Animation
+	index: 45
+	bounds: 48, 1, 45, 41
+red Animation
+	index: 30
+	bounds: 48, 1, 45, 41
+red Animation
+	index: 29
+	bounds: 48, 1, 45, 41
+red Animation
+	index: 36
+	bounds: 48, 1, 45, 41
+red Animation
+	index: 49
+	bounds: 48, 1, 45, 41
+red Animation
+	index: 33
+	bounds: 48, 1, 45, 41
+red Animation
+	index: 43
+	bounds: 48, 1, 45, 41
+red Animation
+	index: 47
+	bounds: 48, 1, 45, 41
+red Animation
+	index: 27
+	bounds: 48, 1, 45, 41
+red Animation
+	index: 34
+	bounds: 48, 1, 45, 41
+red Animation
+	index: 48
+	bounds: 48, 1, 45, 41
+red Animation
+	index: 39
+	bounds: 48, 1, 45, 41
+red Animation
+	index: 41
+	bounds: 48, 1, 45, 41
+red Animation
+	index: 31
+	bounds: 48, 1, 45, 41
+red Animation
+	index: 50
+	bounds: 95, 1, 45, 41
+red Animation
+	index: 55
+	bounds: 95, 1, 45, 41
+red Animation
+	index: 72
+	bounds: 95, 1, 45, 41
+red Animation
+	index: 54
+	bounds: 95, 1, 45, 41
+red Animation
+	index: 64
+	bounds: 95, 1, 45, 41
+red Animation
+	index: 66
+	bounds: 95, 1, 45, 41
+red Animation
+	index: 63
+	bounds: 95, 1, 45, 41
+red Animation
+	index: 68
+	bounds: 95, 1, 45, 41
+red Animation
+	index: 51
+	bounds: 95, 1, 45, 41
+red Animation
+	index: 53
+	bounds: 95, 1, 45, 41
+red Animation
+	index: 60
+	bounds: 95, 1, 45, 41
+red Animation
+	index: 52
+	bounds: 95, 1, 45, 41
+red Animation
+	index: 74
+	bounds: 95, 1, 45, 41
+red Animation
+	index: 70
+	bounds: 95, 1, 45, 41
+red Animation
+	index: 59
+	bounds: 95, 1, 45, 41
+red Animation
+	index: 58
+	bounds: 95, 1, 45, 41
+red Animation
+	index: 67
+	bounds: 95, 1, 45, 41
+red Animation
+	index: 61
+	bounds: 95, 1, 45, 41
+red Animation
+	index: 62
+	bounds: 95, 1, 45, 41
+red Animation
+	index: 57
+	bounds: 95, 1, 45, 41
+red Animation
+	index: 73
+	bounds: 95, 1, 45, 41
+red Animation
+	index: 56
+	bounds: 95, 1, 45, 41
+red Animation
+	index: 69
+	bounds: 95, 1, 45, 41
+red Animation
+	index: 71
+	bounds: 95, 1, 45, 41
+red Animation
+	index: 65
+	bounds: 95, 1, 45, 41
+red Animation
+	index: 75
+	bounds: 142, 1, 45, 41
+red Animation
+	index: 79
+	bounds: 142, 1, 45, 41
+red Animation
+	index: 90
+	bounds: 142, 1, 45, 41
+red Animation
+	index: 92
+	bounds: 142, 1, 45, 41
+red Animation
+	index: 91
+	bounds: 142, 1, 45, 41
+red Animation
+	index: 82
+	bounds: 142, 1, 45, 41
+red Animation
+	index: 76
+	bounds: 142, 1, 45, 41
+red Animation
+	index: 88
+	bounds: 142, 1, 45, 41
+red Animation
+	index: 87
+	bounds: 142, 1, 45, 41
+red Animation
+	index: 81
+	bounds: 142, 1, 45, 41
+red Animation
+	index: 80
+	bounds: 142, 1, 45, 41
+red Animation
+	index: 95
+	bounds: 142, 1, 45, 41
+red Animation
+	index: 94
+	bounds: 142, 1, 45, 41
+red Animation
+	index: 77
+	bounds: 142, 1, 45, 41
+red Animation
+	index: 99
+	bounds: 142, 1, 45, 41
+red Animation
+	index: 84
+	bounds: 142, 1, 45, 41
+red Animation
+	index: 83
+	bounds: 142, 1, 45, 41
+red Animation
+	index: 97
+	bounds: 142, 1, 45, 41
+red Animation
+	index: 85
+	bounds: 142, 1, 45, 41
+red Animation
+	index: 89
+	bounds: 142, 1, 45, 41
+red Animation
+	index: 78
+	bounds: 142, 1, 45, 41
+red Animation
+	index: 86
+	bounds: 142, 1, 45, 41
+red Animation
+	index: 93
+	bounds: 142, 1, 45, 41
+red Animation
+	index: 96
+	bounds: 142, 1, 45, 41
+red Animation
+	index: 98
+	bounds: 142, 1, 45, 41
+red Animation
+	index: 100
+	bounds: 189, 1, 45, 41
+red Animation
+	index: 125
+	bounds: 189, 1, 45, 41
+red Animation
+	index: 102
+	bounds: 189, 1, 45, 41
+red Animation
+	index: 123
+	bounds: 189, 1, 45, 41
+red Animation
+	index: 113
+	bounds: 189, 1, 45, 41
+red Animation
+	index: 112
+	bounds: 189, 1, 45, 41
+red Animation
+	index: 114
+	bounds: 189, 1, 45, 41
+red Animation
+	index: 110
+	bounds: 189, 1, 45, 41
+red Animation
+	index: 124
+	bounds: 189, 1, 45, 41
+red Animation
+	index: 104
+	bounds: 189, 1, 45, 41
+red Animation
+	index: 103
+	bounds: 189, 1, 45, 41
+red Animation
+	index: 105
+	bounds: 189, 1, 45, 41
+red Animation
+	index: 115
+	bounds: 189, 1, 45, 41
+red Animation
+	index: 116
+	bounds: 189, 1, 45, 41
+red Animation
+	index: 106
+	bounds: 189, 1, 45, 41
+red Animation
+	index: 119
+	bounds: 189, 1, 45, 41
+red Animation
+	index: 122
+	bounds: 189, 1, 45, 41
+red Animation
+	index: 118
+	bounds: 189, 1, 45, 41
+red Animation
+	index: 120
+	bounds: 189, 1, 45, 41
+red Animation
+	index: 107
+	bounds: 189, 1, 45, 41
+red Animation
+	index: 108
+	bounds: 189, 1, 45, 41
+red Animation
+	index: 121
+	bounds: 189, 1, 45, 41
+red Animation
+	index: 101
+	bounds: 189, 1, 45, 41
+red Animation
+	index: 111
+	bounds: 189, 1, 45, 41
+red Animation
+	index: 117
+	bounds: 189, 1, 45, 41
+red Animation
+	index: 109
+	bounds: 189, 1, 45, 41
